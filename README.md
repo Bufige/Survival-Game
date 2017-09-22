@@ -4,3 +4,5 @@ This project is still in its infancy, it is a game with simple features about su
 
 
 # Images of the project.
+
+![alt text](https://i.imgur.com/sRkIWxYg.png)
