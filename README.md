@@ -3,4 +3,4 @@ This project is still in its infancy, it is a game with simple features about su
 
 
 
-#Images of the project.
+# Images of the project.
