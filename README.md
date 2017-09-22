@@ -5,4 +5,6 @@ This project is still in its infancy, it is a game with simple features about su
 
 # Images of the project.
 
-![alt text](https://i.imgur.com/sRkIWxYg.png)
+![Scene 1](https://i.imgur.com/sRkIWxYg.png)
+![Picking item](https://i.imgur.com/DxrrQbW.png)
+![Shooting items](https://i.imgur.com/wlJRT4e.png)
