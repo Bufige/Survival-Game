@@ -11,6 +11,6 @@ Picking up items, all the items on the table are pickable and shootable.
 ![Picking item](https://i.imgur.com/DxrrQbW.png)
 Shooting at items.
 ![Shooting items](https://i.imgur.com/wlJRT4e.png)
-Iventory System that i was making when i stopped working on the project.
+Inventory System that i was making when i stopped working on the project.
 ![inventory](https://i.imgur.com/9sunr1D.png)
 
