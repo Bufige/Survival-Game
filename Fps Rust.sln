@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{884608AC-A470-5FEE-B595-248C9EC1768D}") = "Fps Rust", "Assembly-CSharp-firstpass.csproj", "{7A528AF3-D88B-C441-6F04-28D8E1CD2B99}"
+EndProject
+Project("{884608AC-A470-5FEE-B595-248C9EC1768D}") = "Fps Rust", "Assembly-CSharp.csproj", "{DA0427FE-D801-EA91-0A4F-41A74A8D68D2}"
+EndProject
+Project("{884608AC-A470-5FEE-B595-248C9EC1768D}") = "Fps Rust", "Assembly-CSharp-Editor-firstpass.csproj", "{779E3A03-343C-2BCC-48CF-8ADDD7B74ED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A528AF3-D88B-C441-6F04-28D8E1CD2B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A528AF3-D88B-C441-6F04-28D8E1CD2B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A528AF3-D88B-C441-6F04-28D8E1CD2B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A528AF3-D88B-C441-6F04-28D8E1CD2B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA0427FE-D801-EA91-0A4F-41A74A8D68D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0427FE-D801-EA91-0A4F-41A74A8D68D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0427FE-D801-EA91-0A4F-41A74A8D68D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0427FE-D801-EA91-0A4F-41A74A8D68D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{779E3A03-343C-2BCC-48CF-8ADDD7B74ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{779E3A03-343C-2BCC-48CF-8ADDD7B74ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{779E3A03-343C-2BCC-48CF-8ADDD7B74ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{779E3A03-343C-2BCC-48CF-8ADDD7B74ED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
