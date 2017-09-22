@@ -4,7 +4,9 @@ This project is still in its infancy, it is a game with simple features about su
 
 
 # Images of the project.
-
+Scene 1 with all the functions added for testing.
 ![Scene 1](https://i.imgur.com/sRkIWxYg.png)
+Picking up items, all the items on the table are pickable and shootable.
 ![Picking item](https://i.imgur.com/DxrrQbW.png)
+Shooting at items.
 ![Shooting items](https://i.imgur.com/wlJRT4e.png)
